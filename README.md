@@ -42,9 +42,9 @@
 <br/><br/><br/><br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarsh1010&show_icons=true&locale=en&layout=compact" alt="sudarsh1010" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarsh1010&show_icons=true&locale=en&layout=compact" alt="sudarsh1010" /></p> <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarsh1010&show_icons=true&locale=en" alt="sudarsh1010" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarsh1010&show_icons=true&locale=en" alt="sudarsh1010" /></p> <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarsh1010&" alt="sudarsh1010" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarsh1010&" alt="sudarsh1010" /></p> <br/>
 
