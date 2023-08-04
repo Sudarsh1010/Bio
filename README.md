@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sudharsan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Sudharsan</h1>
+<h3 align="left">Full-Stack DEV</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarsh1010&label=Profile%20views&color=0e75b6&style=flat" alt="sudarsh1010" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/sudharsanjain" target="blank"><img src="https://img.shields.io/twitter/follow/sudharsanjain?logo=twitter&style=for-the-badge" alt="sudharsanjain" /></a> </p>
 
-- 🌱 I’m currently learning **Android Native, Flutter**
+- 🌱 I’m currently working at [Qwk](qwk.app)
 
 - 👨‍💻 All of my projects are available at [https://sudarsh-portfolio.netlify.app](https://sudarsh-portfolio.netlify.app)
 
-- 📝 I regularly write articles on [https://sudarsh.hashnode.dev/](https://sudarsh.hashnode.dev/)
+- 📝 I regularly write articles on [https://sudarsh.hashnode.dev/](https://sudarsh.hashnode.dev/) (discountinued)
 
-- 💬 Ask me about **React, Android, Kotlin**
+- 💬 Ask me about **React, Android, Kotlin, Next, Node, Vercel**
 
 - 📫 How to reach me **sudarshjain1010@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Gkh8_V6LHeHcn5JMhvxhIH3j1gwTjeW9/view?usp=sharing](https://drive.google.com/file/d/1Gkh8_V6LHeHcn5JMhvxhIH3j1gwTjeW9/view?usp=sharing)
 
-- ⚡ Fun fact **I am Introverted weeb and a passionate Developer and aspiring Calisthenics Athlete**
+- **I am Introverted weeb and a passionate Developer and aspiring Calisthenics Athlete and a powerlifter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
