@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sudharsanjain" target="blank"><img src="https://img.shields.io/twitter/follow/sudharsanjain?logo=twitter&style=for-the-badge" alt="sudharsanjain" /></a> </p>
 
-- 🌱 I’m currently working at [Qwk](qwk.app)
+- 🌱 I’m currently working at [Qwk](https://qwk.app)
 
 - 👨‍💻 All of my projects are available at [https://sudarsh-portfolio.netlify.app](https://sudarsh-portfolio.netlify.app)
 
