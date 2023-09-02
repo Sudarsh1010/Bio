@@ -24,11 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sudarsh1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sudarsh1010" height="30" width="40" /></a>
-<a href="https://twitter.com/sudharsanjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudharsanjain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudarsh-jain-5abb6618b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarsh-jain-5abb6618b" height="30" width="40" /></a>
-<a href="https://instagram.com/sudarsh_jain_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudarsh_jain_" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sudarshjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sudarshjain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucl7huhpli_wmhds305krvxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucl7huhpli_wmhds305krvxa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sudarshjain1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudarshjain1010" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sudarsh1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudarsh1010" height="30" width="40" /></a>
 </p>
