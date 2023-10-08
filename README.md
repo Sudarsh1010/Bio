@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sudarshjain1010@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ka9HMJlhFYrBynG1U2cSwwt1VS-0KAlu/view?usp=sharing)
+- 📄 Know about my experiences: [View my Resume](https://drive.google.com/file/d/1Ka9HMJlhFYrBynG1U2cSwwt1VS-0KAlu/view?usp=sharing)
 
 - **I am aspiring Calisthenics Athlete and a powerlifter**
 
