@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarsh1010&label=Profile%20views&color=0e75b6&style=flat" alt="sudarsh1010" /> </p>
 
 
-- 🌱 I’m currently looking for a job.
+- 🌱 I’m currently working on contract.
 
 - 👨‍💻 All of my projects are available at [sudarsh.me](https://www.sudarsh.me)
 
